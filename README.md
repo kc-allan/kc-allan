@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kc_allan_" target="blank"><img src="https://img.shields.io/twitter/follow/kc_allan_?logo=twitter&style=for-the-badge" alt="kc_allan_" /></a> </p>
 
-<--\- 🔭 I’m currently working on [Movers Transport System](google.com)
+<!--\- 🔭 I’m currently working on [Movers Transport System](google.com)
 
 - 🌱 I’m currently learning **Backend with django**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio.io](portfolio.io)
 
-- 📝 I regularly write articles on [blog.link](blog.link)--!>
+- 📝 I regularly write articles on [blog.link](blog.link)-->
 
 - 💬 Ask me about **Linux**
 
