@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/kc_allan_" target="blank"><img src="https://img.shields.io/twitter/follow/kc_allan_?logo=twitter&style=for-the-badge" alt="kc_allan_" /></a> </p>
 
-- 🌱 I’m currently learning **Backend with django, ALX software engineering**
+- 🌱 I’m currently learning **Backend with django and ALX software engineering**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kc-allan](https://github.com/kc-allan)
+- 👨‍💻 All of my projects are available [here](https://github.com/kc-allan/repositories)
 
 - 💬 Ask me about **Linux, Network Security**
 
