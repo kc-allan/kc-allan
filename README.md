@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Backend with Django and ALX Software Engineering**
 
-- 👨‍💻 All of my projects are available on [github.com/kc-allan](github.com/kc-allan)
+- 👨‍💻 All my projects are available [here](github.com/kc-allan/repositories)
 
 - 💬 Ask me about **Linux, Network Security**
 
-- 📫 How to reach me **kiruiallan401@gmail.com**
+- 📫 Reach me on email at **kiruiallan401@gmail.com**
 
 - ⚡ Fun fact **Am your favorite meme lord:)**
 
@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/kc_allan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kc_allan_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/allan-kirui-214b6923a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allan-kirui-214b6923a" height="30" width="40" /></a>
-<a href="https://instagram.com/4k.niche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4k.niche" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
