@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Linux, Network Security**
 
-- 📫 Reach me on email at **kiruiallan401@gmail.com**
+- 📫 Reach me on email at **info@kiruiallan.tech**
 
-- ⚡ Fun fact **Am your favorite meme lord:)**
+- ⚡ Fun fact **I could probably beat you at chess (:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
