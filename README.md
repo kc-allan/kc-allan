@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Allan Cheruiyot</h1>
+<h1 align="center">Hi 👋, I'm Allan Kirui</h1>
 <h3 align="center">A passionate Python Developer with interest in Cyber Security and Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kc-allan&label=Profile%20views&color=0e75b6&style=flat" alt="kc-allan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kc_allan_" target="blank"><img src="https://img.shields.io/twitter/follow/kc_allan_?logo=twitter&style=for-the-badge" alt="kc_allan_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/allannnoo" target="blank"><img src="https://img.shields.io/twitter/follow/allannnoo?logo=twitter&style=for-the-badge" alt="allannnoo" /></a> </p>
 
 - 🌱 I’m currently learning **Backend with Django and ALX Software Engineering**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kc_allan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kc_allan_" height="30" width="40" /></a>
+<a href="https://twitter.com/allannnoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kc_allan_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/allan-kirui-214b6923a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allan-kirui-214b6923a" height="30" width="40" /></a>
 </p>
 
