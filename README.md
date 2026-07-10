@@ -26,6 +26,22 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kc-allan&show_icons=true&locale=en&layout=compact" alt="kc-allan" /></p>
 
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=kc-allan&show_icons=true&theme=light&hide_border=false&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc-allan&layout=compact&theme=default&hide_border=false&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" height="180"/>
+</p>
+
+## <div align="center"><h3><img src="https://github.com/user-attachments/assets/2b945ead-ec19-4428-bd51-4e3979494969" width = 30px height = 40px> Activity Graph </h3></div>
+
+<table width="100">
+  <tr border="0">
+    <td align='center' width="1010">
+      <img  align="center"  src="https://github-readme-activity-graph.vercel.app/graph/?username=kc-allan&theme=github-dark&hide_border=true" img alt="Allan's Activity Graph"/>
+    </td>
+  </tr>
+</table>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kc-allan&show_icons=true&locale=en" alt="kc-allan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kc-allan&" alt="kc-allan" /></p>
